@@ -13,7 +13,7 @@ Welcome to my profile! I am an enthusiastic Computer Science undergraduate at **
 - Flask, FastAPI, React, Redux, Spring Boot, Scikit-Learn, PyTorch
 
 ### Databases:
-- MySQL, PostgreSQL, Firebase, NoSQL, Redis
+- MySQL, PostgreSQL, Firebase, Redis
 
 ### Tools and Technologies:
 - Docker, Kubernetes, Jenkins, Git, Kafka, AWS, JIRA, Draw.io, Postman
