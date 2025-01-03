@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Saikrishna Puranam!
 
-Welcome to my profile! I am an enthusiastic Computer Science undergraduate at **The University of Texas at Dallas**, with a passion for Backend Development, Machine Learning, and Cloud Technologies. I am driven to solve challenging problems and build scalable solutions.
+Welcome to my profile! I am an enthusiastic Computer Science undergraduate at **The University of Texas at Dallas**, with a passion for Software Engineering and Machine Learning. I am driven to solve challenging problems and build scalable solutions.
 
 ---
 
